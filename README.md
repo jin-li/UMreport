@@ -87,6 +87,6 @@ on Overleaf.
 
         <img src="./fig/recipe.JPG" width = "260" height = "390" align=center />
 
-        - The "*Recipe: latexmk-xelatex*" uses *xelatex" as LaTeX compiler, which can be used for compiling Chinese documents. 
-        - The "*Recipe: latexmk*" uses *pdflatex" as LaTeX compiler, which can be used for compiling English documents. 
+        - The "*Recipe: latexmk-xelatex*" uses *xelatex* as LaTeX compiler, which can be used for compiling Chinese documents. 
+        - The "*Recipe: latexmk*" uses *pdflatex* as LaTeX compiler, which can be used for compiling English documents. 
    
