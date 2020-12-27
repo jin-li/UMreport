@@ -11,7 +11,7 @@ on Overleaf.
 
 ## Usage
 
-1. All the contents of the report is included in *main.tex*. Replace anything you need in the *.tex* files and *.bib* files and figures in the *fig* directory.
+1. All the contents of the report is included in [*main.tex*](main.tex). Replace anything you need in the *.tex* files and *.bib* files and figures in the *fig* directory.
    
     ```
     |-- main.tex
