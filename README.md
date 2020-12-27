@@ -18,8 +18,8 @@ on Overleaf.
         |-- titlepage.tex
         |-- abstract.tex
         |-- Chapter1.tex
-        |-- Chapter1.tex
-        |-- Chapter1.tex
+        |-- Chapter2.tex
+        |-- Chapter3.tex
         |-- summary.tex
         |-- reference.bib
     ```
@@ -37,7 +37,7 @@ on Overleaf.
             ```
             make doc FNAME=newname
             ```
-    1. If you use "*latex-workshop*" extension in *vscode*, you can copy following settings to "*settings.json*". To be noted, there are two "*settings.json*" for *vscode*. One is for the global, called "User setting"; one is for current project, called "Workspace setting". More infomation about the settings in *vscode* can be found in ["Visual Studio Code settings"](https://code.visualstudio.com/docs/getstarted/settings).
+    2. If you use "*latex-workshop*" extension in *vscode*, you can copy following settings to "*settings.json*". To be noted, there are two "*settings.json*" for *vscode*. One is for the global, called "User setting"; one is for current project, called "Workspace setting". More infomation about the settings in *vscode* can be found in ["Visual Studio Code settings"](https://code.visualstudio.com/docs/getstarted/settings).
 
         ```
         {
