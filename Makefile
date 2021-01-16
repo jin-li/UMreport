@@ -23,10 +23,6 @@ mostlyclean:
 
 clean: mostlyclean
 	$(LATEXMK) -silent -C
-	$(RM) *.run.xml *.synctex.gz
-	$(RM) *.d
-	$(RM) *-blx.bib
-	$(RM) fig/*-eps-converted-to.pdf
 
 .PHONY: all clean doc mostlyclean pdf
 
