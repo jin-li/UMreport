@@ -4,11 +4,7 @@ This template is adapted from [NIT - Trichy B.Tech Thesis Template](https://www.
 on Overleaf.
 
 Here is an overview of the template:
-<<<<<<< HEAD
 ![overview](fig/overview.JPG)
-=======
-![overvoew](fig/overview.JPG)
->>>>>>> b9bcbeb472e25581d18123a5d594e3c9ae642efc
 
 ## Dependency
 
