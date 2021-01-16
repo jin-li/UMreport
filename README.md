@@ -3,6 +3,9 @@
 This template is adapted from [NIT - Trichy B.Tech Thesis Template](https://www.overleaf.com/latex/templates/nit-trichy-btech-thesis-template/cywtdmqjjmgr)
 on Overleaf.
 
+Here is an overview of the template:
+![overview](fig/overview.JPG)
+
 ## Dependency
 
     - TeX Live
